@@ -1,0 +1,36 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:#670909;
+    font-size:1.2em;
+}
+
+
+#BooksGridView,
+#AuthorDropDownList {
+    margin-left:20px;
+}
+
+
+#AuthorDropDownList {
+    margin: 20px 0px;
+}
+#BooksGridView,
+h1,
+p {
+    padding:20px;
+}
+
+#BooksGridView {
+    border: solid 2px #808080;
+    background-color:#f6c1c1;
+    border-radius:4px;
+}
+
+#ErrorLabel {
+    color:#ff0000;
+    
+}
